@@ -1,0 +1,32 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+body 
+{
+    background-color: #f2f2f3 ;
+    font-family: 'Open Sans', sans-serif;
+    color: #6B6B6B;
+    font-size: 14px;
+    line-height: 1.7;
+    word-wrap: break-word;
+}
+h1 ,h2,h3,h4,h5,h6 {
+    font-family: 'Roboto Slab', serif;
+}
+.sliderHome
+{
+    background-color: #FFF;
+
+}
+ /* #lightBoxSlider 
+{
+    position: relative;
+}  */
+  #icons
+{
+ 
+   display: flex;
+   align-items: center;
+   justify-content: center ;
+   cursor: pointer;
+   
+}
